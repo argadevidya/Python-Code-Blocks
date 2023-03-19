@@ -18,3 +18,10 @@ email slicer with Python So we need to divide the email into two strings using â
 To create a password with Python, we need to create a program that takes the length of the password and generates a random password of the same length.
 
 To write a Python program to create a password, declare a string of numbers + uppercase + lowercase + special characters. Take a random sample of the string of a length given by the user.
+Story Generator with Python
+Our task is to generate a random story every time the user runs the program. I will first store the parts of the stories in different lists, then the Random module can be used to select the random parts of the story stored in different lists:
+
+Steps:
+I first imported the random module and then I created parts of the stories in different lists, then I only selected the parts of the lists at random to generate a random story.
+
+As a beginner, you look for creating software applications more, which is not wrong. But spending more time with programs which required you to think logically will always help you no matter what aspect of programming interests you.
