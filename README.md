@@ -13,3 +13,8 @@ email slicer with Python So we need to divide the email into two strings using �
 To create an email slicer with Python, our task is to write a program that can retrieve the username and the domain name of the email. For example, look at the image below which shows the domain and username of “customer@gmail.com”
 
 email slicer with Python So we need to divide the email into two strings using ‘@’ as the separator.We take user input and use the strip function at the same time to remove white space if any. Then we are finding the index of ‘@’ symbol of the user input. Then we store the index into a variable known as domain_name to split the email into two parts; the user name and the domain.
+
+# Python Program to Generate Password
+To create a password with Python, we need to create a program that takes the length of the password and generates a random password of the same length.
+
+To write a Python program to create a password, declare a string of numbers + uppercase + lowercase + special characters. Take a random sample of the string of a length given by the user.
