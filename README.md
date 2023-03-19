@@ -5,6 +5,6 @@ BMI is a measure of relative weight based on an individual’s mass and height. 
 
 BMI can be considered as an alternative for direct measurements of body fat. Besides, BMI is an inexpensive and easy-to-perform method of screening for weight classes that may cause health problems.
 
-#BMI Calculator with Python
+# BMI Calculator with Python
 The body mass index is calculated by dividing an individual’s weight in kilograms by their height in meters, then dividing the answer again by their height. 
 email slicer with Python So we need to divide the email into two strings using ‘@’ as the separator. 
